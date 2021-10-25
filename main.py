@@ -7,3 +7,4 @@ if __name__ == '__main__':
     cmdline.execute(f"scrapy crawl {spider}".split())
 
 
+
