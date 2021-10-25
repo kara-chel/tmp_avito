@@ -1,5 +1,6 @@
 # tmp_avito
 
+Небольшой пример парсинга сайта Авито на scrapy.
 
 ```shell
 2021-10-25 22:57:38 [scrapy.utils.log] INFO: Scrapy 2.5.1 started (bot: avito)
